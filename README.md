@@ -13,5 +13,4 @@ You can follow the readme file in the corresponding subdirectory to reproduce ou
 | PDARTS       | PDARTS-AER     | ***_aer.py    |
 | PCDARTS      | PCDARTS-AER    | ***_aer.py    |
 
-Note: *** denotes the original search script.
-
+Note: We reuse code from other repositories. *** denotes the name of their search script. After replacing their search script with ours, you can reproduce our experiments with full reference to their README.md.
